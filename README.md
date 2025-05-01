@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory & SIEM Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Identity and Security Management</b>
+  - [Active Directory & SIEM](https://github.com/DillonBarrera/ActiveDirectorySIEM-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
