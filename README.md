@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dillon! <br/><a href="https://www.linkedin.com/in/dillon-barrera/">IT & Cybersecurity Professional</a>
-##test
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Identity and Security Management</b>
